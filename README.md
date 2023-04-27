@@ -1,7 +1,7 @@
 ## Olá! Eu sou Leandro Alves
 
 - 🔭 Atuamente trabalho como suporte
-- 🌱 Estou estudando C# na UNITY, PHP, HTML, CSS, JAVA SCRIPT, FLUTTER e PYTHON
+- 🌱 Estou estudando C#, UNITY3D, PHP, HTML, CSS, JAVA SCRIPT, FLUTTER e PYTHON
 
 <div>
   <a href="https://github.com/leandro-99">
